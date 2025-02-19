@@ -49,8 +49,11 @@ Thumbs.db
 bin/
 include/
 lib/
-.pyc
-.xml
+
+# pytest files #
+################
+*.pyc
+*.xml
 
 # sgutentag common exclude directories #
 ########################################
